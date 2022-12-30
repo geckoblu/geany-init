@@ -1,2 +1,2 @@
 # geany-init
-Create a simple Geany project in the current direcory
+Create a simple [Geany](https://www.geany.org/) project in the current directory
